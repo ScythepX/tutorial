@@ -1,4 +1,9 @@
 def add(x, y):
   return x+y
 
-//TODO: Миша, сделай вычитание
+
+def sub(x, y):
+  return x-y
+
+
+//TODO: Сделал вычитание
